@@ -17,7 +17,7 @@ input[type="text"]:focus, .modal-header h3, .thumbs-facilities .text a, .thumbs-
 .blog .heading h3, .comments h3, 
 .continue-shopping, .products-page .breadcrumb > .active, .more-detail .nav-tabs > .active > a, .more-detail .nav-tabs > .active > a:hover, .more-detail .nav-tabs > .active > a:focus, 
 .you-like ul li:hover h5, .pagination ul li a:hover, .more-detail .nav-tabs > li > a:hover, .more-detail .nav-tabs > li > a:focus{
-color:#00b7ca !important;
+color:#E6BFC2 !important;
 }
 .news-letters, 
 .right-banner .carousel-indicators .active, .love-it-thumb:hover .price, 
@@ -35,7 +35,7 @@ color:#00b7ca !important;
 .blog-listing .thumb .tags, .category-widget ul li a:hover, 
 .tags-widget ul li a, .title, .comments ul li:after, .product-list .nav-tabs > .active > a, .product-list .nav-tabs > .active > a:hover, .product-list .nav-tabs > .active > a:focus, .product-list .pagination ul > li > a:hover, .product-list .pagination ul > li > a:focus, .product-list .pagination ul > .active > a, .product-list .pagination ul > .active > span, .products:after, .products:before, .jspDrag
 {
-background-color:#00b7ca;
+background-color:#C44D56;
 }
 
 
@@ -43,7 +43,7 @@ background-color:#00b7ca;
 
 
 .bx-wrapper .bx-pager, input[type="text"]:focus, .form textarea:focus{
-border-color:#00b7ca !important;
+border-color:#9E1828 !important;
 }
 
 

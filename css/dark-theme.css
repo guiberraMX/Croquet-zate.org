@@ -8,11 +8,11 @@
 ===================================================
 */
 body{
-color:#c7c7c7 !important;
+color:#652829 !important;
 }
 
 .bg{
-background-color:#181818;
+background-color:#C44D56;
 background-image:none;
 border-color:#252525;
 }
@@ -21,17 +21,17 @@ background-color:#000000;
 border-color:#252525;
 }
 .whats-new{
-background-color:#0f0f0f;
+background-color:#F0F1F7;
 }
 .love-it, .our-products{
-background-color:#1e1e1e;
+background-color:#F0F1F7;
 }
 .testimonials {
-    background-color: #151515;
-    border-color:#252525;
+    background-color: #F0F1F7;
+    border-color:#A64F4D;
 }
 .flexslider{
-background-color:#1A1A1A !important;
+background-color:#fff !important;
 }
 #carousel.flexslider .flex-active-slide:before{
 border-color:#1A1A1A transparent transparent !important;
@@ -42,14 +42,14 @@ color:#000000;
 }
 
 .experts{
-background-color:#1a1a1a;
+background-color:#F44A52;
 }
 
 .content h2{
-color:#FFFFFF;
+color:#F0F1F7;
 }
 .header h3{
-color:#b1b1b1;
+color:#C44D56;
 }
 .williams p{
 color:#FFFFFF;
@@ -64,7 +64,7 @@ color:#000000;
 border:none;
 }
 .long-looking ul li{
-background-color:#212121;
+background-color:#Fff;
 }
 .long-looking ul li:hover{
 background-color:#0b0b0b;
