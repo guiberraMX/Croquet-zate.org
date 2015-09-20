@@ -83,8 +83,8 @@
 	background: #fff;
 	text-indent: -9999px;
 	display: block;
-	width: 15px;
-	height: 15px;
+	width: 0px;
+	height: 0px;
 	margin: 0 2px;
 	outline: 0;
 	-moz-border-radius: 10px;
