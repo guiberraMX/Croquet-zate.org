@@ -264,11 +264,11 @@ body {
 .banner {
 	float: left;
 	width: 100%;
-	margin: -96px 0 0;
+	
 }
 .banner .caption {
 	position: absolute;
-	bottom: 100px;
+	bottom: 33px;
 	left: 0px;
 	right: 0px;
 	margin: auto;
@@ -323,7 +323,7 @@ body {
 	margin: 0px;
 }
 .banner ul li {
-	height: 973px;
+	height: 503px;
 	overflow: hidden;
 }
 .banner li img {
@@ -1273,6 +1273,10 @@ body {
 	float: left;
 	border: solid 3px #FFFFFF;
 	margin: 0px 15px 0px 0px;
+}
+
+.bigg p{
+	font-size: 33px !important;
 }
 .salon p {
 	font-size: 12px;
